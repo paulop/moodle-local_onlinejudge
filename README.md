@@ -1,4 +1,5 @@
 **This plugin is in BETA version and NOT recommended to use in production sites**
+**Esse Plugin está em uma versão BETA e não é recomendado utilizá-lo na produção de sites**
 
 Introduction
 ============
