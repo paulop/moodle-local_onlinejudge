@@ -116,4 +116,5 @@ $string['status255'] = 'Unsubmitted';
 $string['stderr'] = 'Standard error output';
 $string['stdout'] = 'Standard output';
 $string['upgradenotify'] = 'Do NOT forget to execute cli/install_assignment_type and cli/judged.php. Details in <a href="https://github.com/hit-moodle/moodle-local_onlinejudge/blob/master/README.md" target="_blank">README</a>.';
-
+$string['langjava_local'] 		= 'Java (run locally)';
+$string['langjava_warn2err_local'] = 'Java (run locally, warnings as errors)';

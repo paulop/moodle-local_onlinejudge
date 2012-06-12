@@ -55,7 +55,9 @@ define("ONLINEJUDGE_STATUS_UNSUBMITTED",          255);
 
 require_once(dirname(__FILE__).'/exceptions.php');
 
+//lista de pastas com o nome dos plugins
 $judge_plugins = get_list_of_plugins('local/onlinejudge/judge');
+
 foreach ($judge_plugins as $dir) {
     require_once("$CFG->dirroot/local/onlinejudge/judge/$dir/lib.php");
 }
